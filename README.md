@@ -1414,6 +1414,8 @@ O modelo treinado possui performance de **88,88%**.
 
 ([Métricas de treinamento](https://user-images.githubusercontent.com/116462121/200436568-86567846-b46c-481e-b545-435d07122836.png)
 
+ [Wandb](https://wandb.ai/afonsoaraujoo/YOLOv5)
+
 ## Roboflow
 
  [Roboflow](https://app.roboflow.com/cesar-school-ps-graduao/projeto-final-modelos-preditivos-conexionistas/1)

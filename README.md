@@ -1137,9 +1137,7 @@ O modelo treinado possui performance de **88,88%**.
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
-Exemplo de adição de imagem:
 (![Métricas de treinamento](https://user-images.githubusercontent.com/116462121/200436568-86567846-b46c-481e-b545-435d07122836.png)
 
 ## Roboflow
